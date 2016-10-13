@@ -1,0 +1,3 @@
+#!/bin/bash
+# https://hub.docker.com/r/kylef/swiftenv/
+docker build -t nile/swift -f swift.dockerfile .

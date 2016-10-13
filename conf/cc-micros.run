@@ -1,0 +1,2 @@
+#!/bin/bash
+docker build -t nile/cc-micros -f cc-micros.dockerfile .
