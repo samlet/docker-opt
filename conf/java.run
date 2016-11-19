@@ -1,0 +1,2 @@
+#!/bin/bash
+docker build -t nile/java-dev -f java.dockerfile .

@@ -1,4 +1,4 @@
-From nile/cc-micros
+FROM nile/cc-micros
 MAINTAINER Samlet Wu <xiaofei.wu@gmail.com>
 
 ## contains: build-essential, cmake, python
